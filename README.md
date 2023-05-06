@@ -22,7 +22,14 @@ To run the app, simply download the source code and open it in Android Studio. Y
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png "Quiz main page")
+<p>
+<img src="https://github.com/samueldenzil/guess-the-country-quiz/blob/main/screenshots/screenshot1.png?raw=true" alt="Quiz main page" width="400" >
+<img src="https://github.com/samueldenzil/guess-the-country-quiz/blob/main/screenshots/screenshot2.png?raw=true" alt="Quiz Question 1" width="400" >
+<img src="https://github.com/samueldenzil/guess-the-country-quiz/blob/main/screenshots/screenshot3.png?raw=true" alt="Quiz Question 2" width="400">
+<img src="https://github.com/samueldenzil/guess-the-country-quiz/blob/main/screenshots/screenshot4.png?raw=true" alt="Quiz results" width="400" >
+</p>
+
+<!-- ![Screenshot 1](/screenshots/screenshot1.png "Quiz main page")
 ![Screenshot 2](/screenshots/screenshot2.png "Quiz Question 1")
 ![Screenshot 3](/screenshots/screenshot3.png "Quiz Question 2")
-![Screenshot 4](/screenshots/screenshot4.png "Quiz results")
+![Screenshot 4](/screenshots/screenshot4.png "Quiz results") -->
